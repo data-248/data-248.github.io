@@ -2,7 +2,7 @@
 
 ---
 
-## Python
+### Python
 | Project | Description |
 | --- | --- |
 | <a href="https://github.com/data-248/DataCamp-Projects/blob/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb">Dr. Semmelweis and the Discovery of Handwashing</a> | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
