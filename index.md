@@ -3,6 +3,10 @@
 ---
 
 ### Python
+
+[Dr. Semmelweis and the Discovery of Handwashing](https://github.com/data-248/DataCamp-Projects/blob/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ignaz_Semmelweis_1860.jpg/1200px-Ignaz_Semmelweis_1860.jpg?raw=true"/>
+
 | Project | Description |
 | --- | --- |
 | <a href="https://github.com/data-248/DataCamp-Projects/blob/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb">Dr. Semmelweis and the Discovery of Handwashing</a> | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
