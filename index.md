@@ -2,6 +2,12 @@
 
 ---
 
+### Tableau
+
+[View my Tableau portfolio](https://public.tableau.com/profile/cassandra.tso)
+
+---
+
 ### Python
 
 [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/data-248/DataCamp-Projects/blob/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
