@@ -1,11 +1,14 @@
 title: Cassandra Tso # your name (or website title) here
 logo: "/images/Headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Motivated, team player, detail-oriented, and responsible Data Analyst with experience in analyzing and visualizing data.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/cassandratso/">View My LinkedIn Profile</a> 
+  I have always loved working with numbers since I was little and I have a Bachelor of Mathematics (Specialization in Business) from the University of Waterloo. I am passionate about data analytics and I want to help your business make better business 
+  <br><br>decisions through my skills and experience! 
+  <a href="https://data-248.github.io/Cassandra%20Tso%20-%20Resume.pdf">View My Resume</a> 
+  <a href="https://www.linkedin.com/in/cassandratso/">View My LinkedIn Profile</a>
+  <a href="https://datacamp.com/profile/tsocassandra">View My DataCamp Profile</a> 
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-179197621-1 # your Google Analytics tracking ID here
