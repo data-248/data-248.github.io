@@ -17,7 +17,7 @@ Reanalyse the data behind one of the most important discoveries of modern medici
 ---
 [Exploring 67 years of LEGO](https://github.com/data-248/DataCamp-Projects/blob/master/Exploring%2067%20years%20of%20LEGO/notebook.ipynb)
 In this project we will explore a database of every LEGO set ever built.
-<br><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/LEGO_logo.svg" width="400" height="400"/>
+<br><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/LEGO_logo.svg" width="300" height="300"/>
 
 ---
 [TV, Halftime Shows, and the Big Game](https://github.com/data-248/DataCamp-Projects/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb)
