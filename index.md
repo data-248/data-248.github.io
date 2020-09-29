@@ -17,11 +17,14 @@ Reanalyse the data behind one of the most important discoveries of modern medici
 ---
 [Exploring 67 years of LEGO](https://github.com/data-248/DataCamp-Projects/blob/master/Exploring%2067%20years%20of%20LEGO/notebook.ipynb)
 In this project we will explore a database of every LEGO set ever built.
+<br><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/LEGO_logo.svg" width="400" height="400"/>
 
 ---
 [TV, Halftime Shows, and the Big Game](https://github.com/data-248/DataCamp-Projects/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb)
 Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.
+<br><img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Super_Bowl_LIII_logo.png" width="380" height="200"/>
 
 ---
 [The Android App Market on Google Play](https://github.com/data-248/DataCamp-Projects/blob/master/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb)
 Load, clean, and visualize scraped Google Play store data to understand the Android app market.
+<br><img src="https://cdn.worldvectorlogo.com/logos/google-play-3.svg" width="400" height="200"/>
