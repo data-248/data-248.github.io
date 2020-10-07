@@ -28,3 +28,7 @@ Load, clean, and explore Super Bowl data in the age of soaring ad costs and flas
 [The Android App Market on Google Play](https://github.com/data-248/DataCamp-Projects/blob/master/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb)
 Load, clean, and visualize scraped Google Play store data to understand the Android app market.
 <br><img src="https://cdn.worldvectorlogo.com/logos/google-play-3.svg" width="400" height="200"/>
+
+---
+[Exploring the Bitcoin Cryptocurrency Market](https://github.com/data-248/DataCamp-Projects/blob/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/notebook.ipynb)
+Exploring the market capitalization of Bitcoin and other cryptocurrencies.
